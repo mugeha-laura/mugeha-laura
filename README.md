@@ -10,8 +10,36 @@ I am Laura Mugeha, a Geospatial engineer and technical community builder working
 - ⚡ Fun fact: When it comes to choosing between music and coffee, it's quite the dilemma for me. If I'm seeking an energy boost, I have to pick one or the other. But hey, if the goal is to have an impromptu dance party in my chair, then you bet I'll have both!<br>
 
   🎧Here's what I'm currently listening to:
-  >
-  >![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=0ynq1wuhtf2rlpzypf5s0ummt&width=800&count=3&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)
+  
+  [![Data Card for Spotify](https://www.data-card-for-spotify.com/api/card?user_id=0ynq1wuhtf2rlpzypf5s0ummt&limit=3)](https://www.data-card-for-spotify.com/card?user_id=0ynq1wuhtf2rlpzypf5s0ummt)
+<br>
 
 ## Connect with me
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white 
+<p>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=000000" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=000000" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=000000" alt="Instagram"/>
+  </a>
+  <a href="https://medium.com/" target="_blank">
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=000000" alt="Medium"/>
+  </a>
+  <a href="https://www.facebook.com/" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=000000" alt="Facebook"/>
+  </a>
+</p><br>
+
+## Tools, Languages & Platforms
+<p>
+ <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="80">
+ <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="80">
+ <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="80">
+ <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="80">
+ <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="80">
+ <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="80">
+ <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="80">
+</p>
