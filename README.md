@@ -1,4 +1,4 @@
-## Hello world 👋🏾!
+## Hello world! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Dark%20Skin%20Tone.png" alt="Waving Hand Dark Skin Tone" width="30" height="30" />
 
 I am Laura Mugeha, a Geospatial engineer and technical community builder working at the intersection of open data, free and open-source software, and sustainable development. I currently work at a Kenyan social enterprise to support teams to adopt data for good. In my free time, I volunteer with tech communities.
  
@@ -14,7 +14,7 @@ I am Laura Mugeha, a Geospatial engineer and technical community builder working
   [![Data Card for Spotify](https://www.data-card-for-spotify.com/api/card?user_id=0ynq1wuhtf2rlpzypf5s0ummt&limit=3)](https://www.data-card-for-spotify.com/card?user_id=0ynq1wuhtf2rlpzypf5s0ummt)
 <br>
 
-## Connect with me
+## Connect with me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="30" height="30" />
 <p>
   <a href="https://twitter.com/" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=000000" alt="Twitter"/>
@@ -33,7 +33,7 @@ I am Laura Mugeha, a Geospatial engineer and technical community builder working
   </a>
 </p><br>
 
-## Tools, Languages & Platforms
+## Tools, Languages & Platforms <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Dark%20Skin%20Tone.png" alt="Woman Technologist Dark Skin Tone" width="30" height="30" />
 <p>
  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="80">
  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="80">
@@ -43,3 +43,5 @@ I am Laura Mugeha, a Geospatial engineer and technical community builder working
  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="80">
  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="80">
 </p>
+
+## Recent Features <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Dark%20Skin%20Tone.png" alt="Writing Hand Dark Skin Tone" width="30" height="30" />
