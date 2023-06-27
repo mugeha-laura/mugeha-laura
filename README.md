@@ -1,5 +1,6 @@
 ### Hello world 👋🏾!
-***
+
+___
 
 I am Laura Mugeha, a Geospatial engineer and technical community builder working at the intersection of open data, free and open-source software, and sustainable development. I currently work at a Kenyan social enterprise to support teams to adopt data for good. In my free time, I volunteer with tech communities.
  
