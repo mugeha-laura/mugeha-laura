@@ -9,8 +9,8 @@
 > - 💬 Need help integrating captivating maps into your work? I've got you covered! Ask me anything about incorporating maps and geospatial data to enhance your projects, and I'll gladly share my expertise.
 > - 👩🏾 Pronouns: she, her, hers
 > - ⚡ Fun fact: When it comes to choosing between music and coffee, it's quite the dilemma for me. If I'm seeking an energy boost, I have to pick one or the other. But hey, if the goal is to have an impromptu dance party in my chair, then you bet I'll have both!
->  🎧Here's what I'm currently listening to:
->  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0ynq1wuhtf2rlpzypf5s0ummt&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=0ynq1wuhtf2rlpzypf5s0ummt&redirect=true)
+>   🎧Here's what I'm currently listening to:
+>   [[https://spotify-github-profile.vercel.app/api/view.svg?uid=0ynq1wuhtf2rlpzypf5s0ummt&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=0ynq1wuhtf2rlpzypf5s0ummt&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)]]
 
 ### Connect with me & Get in touch
 
