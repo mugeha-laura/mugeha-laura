@@ -14,7 +14,6 @@ I am Laura Mugeha, a Geospatial engineer and technical community builder working
   [![Data Card for Spotify](https://www.data-card-for-spotify.com/api/card?user_id=0ynq1wuhtf2rlpzypf5s0ummt&limit=3)](https://www.data-card-for-spotify.com/card?user_id=0ynq1wuhtf2rlpzypf5s0ummt)
   
 
-
 ## Connect with me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="30" height="30" />
 <p>
   <a href="https://www.linkedin.com/in/laura-mugeha/">
@@ -35,7 +34,6 @@ I am Laura Mugeha, a Geospatial engineer and technical community builder working
 </p>
 
 
-
 ## Tools, Languages & Platforms <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Dark%20Skin%20Tone.png" alt="Woman Technologist Dark Skin Tone" width="30" height="30" />
 <p>
  <img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
@@ -53,5 +51,11 @@ I am Laura Mugeha, a Geospatial engineer and technical community builder working
 </p>
 
 
-
-## Recent Features <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Dark%20Skin%20Tone.png" alt="Writing Hand Dark Skin Tone" width="30" height="30" />
+## Recent Features & Articles <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Dark%20Skin%20Tone.png" alt="Writing Hand Dark Skin Tone" width="30" height="30" />
+- [Women in Geoscience—Laura Mugeha, Geospatial Engineer, Kenya](https://www.youtube.com/watch?v=h0Tw1NIM7X4)
+- [Interview: OpenStreetMap in Kenya, Laura Mugeha](https://blog.opencagedata.com/post/openstreetmap-in-kenya)
+- [Using Open Data, Data Journalism, and Storytelling For Social Good in Nairobi](https://openheroines.medium.com/using-open-data-data-journalism-and-storytelling-for-social-good-in-nairobi-53884571c6e1)
+- [YouthMappers: Data-driven Empowerment for Youth Leadership](https://shemaps.com/blog/youthmappers/)
+- [2019 Open Data Day celebrations in Kenya](https://blog.okfn.org/2019/03/27/2019-open-data-day-celebrations-in-kenya/)
+- [Celebrating GIS Day 2020!](https://aspectum.com/blog/celebrating-gis-day-2020/?)
+- [Geospatial World 50 Rising Stars](https://www.geospatialworld.net/rising-stars/2021/bio.html)
