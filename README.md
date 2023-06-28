@@ -9,7 +9,7 @@ I am Laura Mugeha, a Geospatial engineer and technical community builder working
 - <img src="https://raw.githubusercontent.com/mugeha-laura/mugeha-laura/main/emojis/woman-dark.svg" width="20" height="20" /> Pronouns: she, her, hers
 - <img src="https://raw.githubusercontent.com/mugeha-laura/mugeha-laura/main/emojis/high-voltage.svg" width="20" height="20" /> Fun fact: When it comes to choosing between music and coffee, it's quite the dilemma for me. If I'm seeking an energy boost, I have to pick one or the other. But hey, if the goal is to have an impromptu dance party in my chair, then you bet I'll have both!<br>
 
-  <img src="https://raw.githubusercontent.com/mugeha-laura/mugeha-laura/main/emojis/headphone.svg" width="20" height="20" />Here's what I'm currently listening to:
+  <img src="https://raw.githubusercontent.com/mugeha-laura/mugeha-laura/main/emojis/headphone.svg" width="20" height="20" /> Here's what I'm currently listening to:
   
   [![Data Card for Spotify](https://www.data-card-for-spotify.com/api/card?user_id=0ynq1wuhtf2rlpzypf5s0ummt&limit=3)](https://www.data-card-for-spotify.com/card?user_id=0ynq1wuhtf2rlpzypf5s0ummt)
   
@@ -53,7 +53,7 @@ I am Laura Mugeha, a Geospatial engineer and technical community builder working
 
 
 ## Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" />
-![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=mugeha-laura&hide_border=true&theme=dark) ![GitHub Streak](https://streak-stats.demolab.com/?user=mugeha-laura&hide_border=true&theme=dark&hide_longest_streak=true)
+![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=mugeha-laura&hide_border=true&theme=dark&card_width=450) ![GitHub Streak](https://streak-stats.demolab.com/?user=mugeha-laura&hide_border=true&theme=dark&hide_longest_streak=true&card_width=450)
 
 
 ## Recent Features & Articles <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Dark%20Skin%20Tone.png" alt="Writing Hand Dark Skin Tone" width="30" height="30" />
