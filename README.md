@@ -11,7 +11,7 @@ I am Laura Mugeha, a Geospatial engineer and technical community builder working
 
   <img src="https://raw.githubusercontent.com/mugeha-laura/mugeha-laura/main/emojis/headphone.svg" width="20" height="20" />Here's what I'm currently listening to:
   
-  [![Data Card for Spotify](https://www.data-card-for-spotify.com/api/card?user_id=0ynq1wuhtf2rlpzypf5s0ummt&limit=3&show_border=true)](https://www.data-card-for-spotify.com/card?user_id=0ynq1wuhtf2rlpzypf5s0ummt)
+  [![Data Card for Spotify](https://www.data-card-for-spotify.com/api/card?user_id=0ynq1wuhtf2rlpzypf5s0ummt&limit=3)](https://www.data-card-for-spotify.com/card?user_id=0ynq1wuhtf2rlpzypf5s0ummt)
   
 
 ## Connect with me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="30" height="30" />
@@ -53,7 +53,7 @@ I am Laura Mugeha, a Geospatial engineer and technical community builder working
 
 
 ## Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" />
-![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=mugeha-laura&show_icons=true&theme=dark) ![GitHub Streak](https://streak-stats.demolab.com/?user=mugeha-laura&show_icons=true&theme=dark)
+![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=mugeha-laura&hide_border=true&theme=dark) ![GitHub Streak](https://streak-stats.demolab.com/?user=mugeha-laura&hide_border=true&theme=dark&hide_longest_streak=true)
 
 
 ## Recent Features & Articles <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Dark%20Skin%20Tone.png" alt="Writing Hand Dark Skin Tone" width="30" height="30" />
