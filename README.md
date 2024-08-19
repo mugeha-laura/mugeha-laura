@@ -1,6 +1,6 @@
 ## Hello world! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Dark%20Skin%20Tone.png" alt="Waving Hand Dark Skin Tone" width="30" height="30" />
 
-I am Laura Mugeha, a Geospatial engineer and technical community builder working at the intersection of open data, free and open-source software, and sustainable development. I currently work at a Kenyan social enterprise to support teams to adopt data for good. In my free time, I volunteer with tech communities.
+I am Laura Mugeha, a Geospatial engineer and technical community builder working at the intersection of open data, free and open-source software, and sustainable development. I currently work as an Implementation officer at Ushahidi. In my free time, I volunteer with open tech communities.
  
 - <img src="https://raw.githubusercontent.com/mugeha-laura/mugeha-laura/main/emojis/bullseye.svg" width="20" height="20" /> I'm currently working on building a data for good consultancy. It is an exciting journey that constantly fuels my curiosity and creativity.
 - <img src="https://raw.githubusercontent.com/mugeha-laura/mugeha-laura/main/emojis/books.svg" width="20" height="20" /> I'm also re-learning data science, It's a field that promises endless possibilities, and I can't wait to unlock its potential to make the world a better place.
