@@ -2,7 +2,7 @@
 
 I am Laura Mugeha, a Geospatial engineer and technical community builder working at the intersection of open data, free and open-source software, and sustainable development. I currently work as an Implementation officer at Ushahidi. In my free time, I volunteer with open tech communities.
  
-- <img src="https://raw.githubusercontent.com/mugeha-laura/mugeha-laura/main/emojis/bullseye.svg" width="20" height="20" /> I'm currently working on building a data for good consultancy. It is an exciting journey that constantly fuels my curiosity and creativity.
+- <img src="https://raw.githubusercontent.com/mugeha-laura/mugeha-laura/main/emojis/bullseye.svg" width="20" height="20" /> I'm currently working on building a data for good venture. It is an exciting journey that constantly fuels my curiosity and creativity.
 - <img src="https://raw.githubusercontent.com/mugeha-laura/mugeha-laura/main/emojis/books.svg" width="20" height="20" /> I'm also re-learning data science, It's a field that promises endless possibilities, and I can't wait to unlock its potential to make the world a better place.
 - <img src="https://raw.githubusercontent.com/mugeha-laura/mugeha-laura/main/emojis/woman-raising-hand-dark.svg" width="20" height="20" /> I'm looking to support open-source communities in Africa. Collaborating with passionate individuals who share the same values and are driven to make a difference is what truly fuels my passion.
 - <img src="https://raw.githubusercontent.com/mugeha-laura/mugeha-laura/main/emojis/left-speech-bubble.svg" width="20" height="20" /> Need help integrating captivating maps into your work? I've got you covered! Ask me anything about working with maps and geospatial data to enhance your projects.
