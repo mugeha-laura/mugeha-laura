@@ -1,13 +1,13 @@
 ## Hello world! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Dark%20Skin%20Tone.png" alt="Waving Hand Dark Skin Tone" width="30" height="30" />
 
-I am Laura Mugeha, a Geospatial engineer and technical community builder working at the intersection of open data, free and open-source software, and sustainable development. I currently work as an Implementation officer at Ushahidi. In my free time, I volunteer with open tech communities.
+I am Laura Mugeha, a Geospatial engineer and technical community builder working at the intersection of open data, free and open-source software, and sustainable development. In my free time, I volunteer with open tech communities.
  
 - <img src="https://raw.githubusercontent.com/mugeha-laura/mugeha-laura/main/emojis/bullseye.svg" width="20" height="20" /> I'm currently working on building a data for good venture. It is an exciting journey that constantly fuels my curiosity and creativity.
-- <img src="https://raw.githubusercontent.com/mugeha-laura/mugeha-laura/main/emojis/books.svg" width="20" height="20" /> I'm also re-learning data science, It's a field that promises endless possibilities, and I can't wait to unlock its potential to make the world a better place.
+- <img src="https://raw.githubusercontent.com/mugeha-laura/mugeha-laura/main/emojis/books.svg" width="20" height="20" /> I'm also re-learning ML/AI, It's a field that promises endless possibilities, and I can't wait to unlock its potential to make the world a better place.
 - <img src="https://raw.githubusercontent.com/mugeha-laura/mugeha-laura/main/emojis/woman-raising-hand-dark.svg" width="20" height="20" /> I'm looking to support open-source communities in Africa. Collaborating with passionate individuals who share the same values and are driven to make a difference is what truly fuels my passion.
-- <img src="https://raw.githubusercontent.com/mugeha-laura/mugeha-laura/main/emojis/left-speech-bubble.svg" width="20" height="20" /> Need help integrating captivating maps into your work? I've got you covered! Ask me anything about working with maps and geospatial data to enhance your projects.
+- <img src="https://raw.githubusercontent.com/mugeha-laura/mugeha-laura/main/emojis/left-speech-bubble.svg" width="20" height="20" /> Ask me anything about working with maps and geospatial data to enhance your projects.
 - <img src="https://raw.githubusercontent.com/mugeha-laura/mugeha-laura/main/emojis/woman-dark.svg" width="20" height="20" /> Pronouns: she, her, hers
-- <img src="https://raw.githubusercontent.com/mugeha-laura/mugeha-laura/main/emojis/high-voltage.svg" width="20" height="20" /> Fun fact: When it comes to choosing between music and coffee, it's quite the dilemma for me. If I'm seeking an energy boost, I have to pick one or the other. But hey, if the goal is to have an impromptu dance party in my chair, then you bet I'll have both!<br>
+- <img src="https://raw.githubusercontent.com/mugeha-laura/mugeha-laura/main/emojis/high-voltage.svg" width="20" height="20" /> Fun fact: I really love music -  it really is my favourite productivity hack, and I believe I solve problems better with music playing in the background!<br>
 
   <img src="https://raw.githubusercontent.com/mugeha-laura/mugeha-laura/main/emojis/headphone.svg" width="20" height="20" /> Here's what I'm currently listening to:
   
