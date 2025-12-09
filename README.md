@@ -51,11 +51,6 @@ I am Laura Mugeha, a Geospatial engineer and technical community builder working
 </p>
 
 
-
-## Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" />
-![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=mugeha-laura&hide_border=true&theme=dark&card_width=400) ![GitHub Streak](https://streak-stats.demolab.com/?user=mugeha-laura&hide_border=true&theme=dark&hide_longest_streak=true&card_width=400)
-
-
 ## Recent Features & Articles <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Dark%20Skin%20Tone.png" alt="Writing Hand Dark Skin Tone" width="30" height="30" />
 - [Women in Geoscience—Laura Mugeha, Geospatial Engineer, Kenya](https://www.youtube.com/watch?v=h0Tw1NIM7X4)
 - [Interview: OpenStreetMap in Kenya, Laura Mugeha](https://blog.opencagedata.com/post/openstreetmap-in-kenya)
